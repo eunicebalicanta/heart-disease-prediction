@@ -1,2 +1,2 @@
 # Heart_Disease_Prediction
-Using the Heart Disease dataset from the UC Irvine Machine Learning Repository, this was my first step to utilizing data visualization and supervised machine learning tools (k-means clustering). 
+Using the Heart Disease dataset from the UC Irvine Machine Learning Repository, my project group utilized data visualization and supervised machine learning tools (regression and k-means clustering) to predict likelihood. 
