@@ -1,2 +1,5 @@
-# Heart_Disease_Prediction
-Using the Heart Disease dataset from the UC Irvine Machine Learning Repository, my project group utilized supervised machine learning tools (regression and k-means clustering) to predict likelihood. 
+# Heart_Disease_Prediction 
+
+Coronary artery disease, a type of heart disease, is defined by >50% narrowing of the vessel's diameter. Blood pressure is defined by the force of blood against the walls of the arteries, measured in mmHg. Typically, a low maximum heart rate and high resting blood pressure are associated with health risks, including a higher likelihood of heart disease (Sandvik et al., 1995; Wu et al., 2015). Thus, our group poses the following question: Can resting blood pressure (on admission to the hospital) and maximum heart rate achieved predict heart disease?
+
+For our project, we are using the Heart Disease dataset from the UC Irvine Machine Learning Repository (Janosi et al., 1988). The database contains 76 attributes, but all published experiments use only a subset of 14. The data consists of both categorical and integer variable types. There is very little missing data, and the variables we will be looking at do not contain any mising data. In this project, we will be exploring the data to see how different variables interact.
